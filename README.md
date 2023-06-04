@@ -4,7 +4,7 @@
 
 ## OVERVIEW
 if you ever  want to check out  an anime but you are lazy to start something with a lot of episodes 
-and dont know where to start, you can choose from the most popular animes , based on the number of episodes!
+and dont know waht to watch, you can choose from the most popular animes , based on the number of episodes!
 this code takes information from website https://zoro.to/most-popular 
 about the most popular anime names and number of episodes they have!
 ##

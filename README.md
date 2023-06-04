@@ -1,5 +1,5 @@
 # zoroParser
-![cover]([https://user-images.githubusercontent.com/115420570/213478711-894029db-d2b2-4588-8040-dd621627d591.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshipping.fandom.com%2Fwiki%2FEren_x_Freedom&psig=AOvVaw0s1Wy3ElEhzcGGj2E-qSsP&ust=1685965043346000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjz8bDDqf8CFQAAAAAdAAAAABAI))
+![7981367](https://github.com/lizajean23/parsing/assets/115722598/216228e9-4729-4391-94d7-2926f485c751)
 
 
 ## OVERVIEW
@@ -8,6 +8,9 @@ and dont know where to start, you can choose from the most popular animes , base
 this code takes information from website https://zoro.to/most-popular 
 about the most popular anime names and number of episodes they have!
 ##
+i am using requests and bs4 module , to get info from the web!
+also considering the need for logical duration between get requests , i send them each time from 15-20 seconds randomly 
+all the gotten info is saved in csv file
 
 ## HOPE YOU ENJOY <3
 
